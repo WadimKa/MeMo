@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Должностные лица">
+        <menu>
+            <item android:title="Министерство"
+                android:id="@+id/MIN"/>
+            <item android:title="ДИН"
+                android:id="@+id/DIN"/>
+            <item android:title="УДИН"
+                android:id="@+id/UDIN"/>
+        </menu>
+    </item>
+
+    <item android:title="Обязанности">
+        <menu>
+            <item android:title="СДСК"
+                android:id="@+id/SDSK"/>
+            <item android:title="ЖЗ"
+                android:id="@+id/LIVEZONE"/>
+            <item android:title="ДК"
+                android:id="@+id/DK"/>
+            <item android:title="КДС"
+                android:id="@+id/SVID"/>
+            <item android:title="КПП"
+                android:id="@+id/KPP"/>
+            <item android:title="КВО"
+                android:id="@+id/KVO"/>
+            <item android:title="ОГ"
+                android:id="@+id/OG"/>
+            <item android:title="Техник ТСО"
+                android:id="@+id/TSO"/>
+        </menu>
+    </item>
+
+    <item android:title="Статьи">
+        <menu>
+            <item android:title="Статья 26"
+                android:id="@+id/s26"/>
+            <item android:title="Статья 27"
+                android:id="@+id/s27"/>
+            <item android:title="Статья 28"
+                android:id="@+id/s28"/>
+            <item android:title="Статья 29"
+                android:id="@+id/s29"/>
+        </menu>
+    </item>
+
+    <item android:title="Полезная информация">
+        <menu>
+            <item android:title="Распорядок дня в ЖЗ(раб)"
+                android:id="@+id/SHLIVEZONE"/>
+            <item android:title="Распорядок в ЖЗ(вых)"
+                android:id="@+id/SHDK"/>
+            <item android:title="Распорядок в ДК"
+                android:id="@+id/SH"/>
+            <item android:title="График работы розеток"
+                android:id="@+id/SHSOCKET"/>
+            <item android:title="Права и обязанности граждан"
+                android:id="@+id/LAW"/>
+            <item android:title="Проведение проверок"
+                android:id="@+id/PROV"/>
+            <item android:title="Тревожная сумка"
+                android:id="@+id/TREV"/>
+            <item android:title="Надзор"
+                android:id="@+id/NADZ"/>
+            <item android:title="Магазин"
+                android:id="@+id/MAG"/>
+            <item android:title="Разрешенные предметы"
+                android:id="@+id/PROD"/>
+        </menu>
+    </item>
+
+
+
+    </menu>
